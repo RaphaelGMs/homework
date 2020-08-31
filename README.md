@@ -1,1 +1,3 @@
 Dies ist die readme des homework-Repositorys.
+
+Das hier ist der editierte Teil...
